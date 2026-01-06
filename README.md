@@ -1,10 +1,4 @@
-<!DOCTYPE html>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Page 3</title>
-</head>
 
 <!-- Body : Partie visible de la page .. -->
 <body>
@@ -26,4 +20,3 @@
 <p>Voila le teste de mon paragraphe ... </p>
 
 </body>
-</html>
